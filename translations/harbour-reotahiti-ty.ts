@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="ty">
 <context>
     <name>MainPage</name>
     <message>
@@ -51,7 +51,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="77"/>
         <source>Fruits</source>
-        <translation type="unfinished"></translation>
+        <translation>Mā‘ahotu</translation>
     </message>
 </context>
 </TS>
