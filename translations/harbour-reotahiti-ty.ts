@@ -30,16 +30,36 @@
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="96"/>
+        <source>Verbs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="102"/>
         <source>Vocabulary</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="128"/>
-        <source>Expressions</source>
+        <location filename="../qml/pages/MainPage.qml" line="143"/>
+        <source>Expressions #1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="159"/>
+        <location filename="../qml/pages/MainPage.qml" line="180"/>
+        <source>Vocabulary #2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="203"/>
+        <source>Phrases #1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="230"/>
+        <source>Expressions #2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="270"/>
         <source>Display items</source>
         <translation type="unfinished"></translation>
     </message>

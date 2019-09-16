@@ -32,15 +32,31 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Expressions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Display items</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ok</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verbs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expressions #1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vocabulary #2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phrases #1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expressions #2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
