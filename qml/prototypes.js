@@ -10,7 +10,7 @@ Number.prototype.times = function(fn) {
 }
 
 Object.prototype.sample = function(n) {
-    n = typeof n !== undefined ? n : 1
+    n = typeof n !== 'undefined' ? n : 1
 
     var rest = this.dup()
 
