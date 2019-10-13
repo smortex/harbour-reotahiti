@@ -217,8 +217,8 @@ Page {
                             'juillet': 'tiurai',
                             'août': '‘atete',
                             'septembre': 'tetepa',
-                            'octobre' '‘atopa',:
-                            'novembre' 'nōvma',:
+                            'octobre': '‘atopa',
+                            'novembre': 'nōvma',
                             'décembre': 'tītema',
                             // Misc
                             'semaine': 'hepetoma',
