@@ -352,6 +352,30 @@ Page {
                             'Tere i Taravao': 'Conduire à Taravao',
                         }
                     }
+                    MenuItem {
+                        text: qsTr("Phrases #5")
+                        property variant words: {
+                            'Hōro‘a i te mana‘o': 'Donner un avis',
+                            'Hōro‘a i to ‘oe mana‘o': 'Donner son avis',
+                            'Tanu i te tiare': 'Planter les fleurs',
+                            'Tunu i te mā‘a': 'Cuisiner',
+                            'Ani i te ta‘ata': 'Demander à une personne',
+                            'Haere e ori': 'Aller vadrouiller',
+                            'Haere e oriori': 'Aller se promener',
+                            'Haere e orihaere': 'Aller se promener',
+                            'Fa‘aro‘o i te ve‘a': 'Écouter les nouvelles / infos',
+                            'Fa‘aro‘o i te parau ‘apī': 'Écouter les nouvelles / infos',
+                            'Ri‘ari‘a': 'Avoir peur / craindre',
+                            'Mata‘u': 'Avoir peur / craindre',
+                            'Pe‘ape‘a': 'Être triste',
+                            '‘oa‘oa': 'Être heureu·se',
+                            'Māuruuru': 'Être satisfait·e',
+                            'Maere': 'Être surpris·e / étonné·e',
+                            'Tāere': 'Être en retard',
+                            '‘oi‘oi': 'Être en avance',
+                            'Ha‘apoupou': 'Applaudir',
+                        }
+                    }
                     /**************************************************************************************************/
                     MenuItem {
                         text: qsTr("Colors")
