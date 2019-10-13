@@ -263,7 +263,7 @@ Page {
                     }
                     /**************************************************************************************************/
                     MenuItem {
-                        text: qsTr("Phrases #1")
+                        text: qsTr("Sentenses #1")
                         property variant words: {
                             '‘Ia ora na !': 'Bonjour !',
                             'Pārahi !': 'Au revoir !',
@@ -290,7 +290,7 @@ Page {
                         }
                     }
                     MenuItem {
-                        text: qsTr("Phrases #2")
+                        text: qsTr("Sentenses #2")
                         property variant words: {
                             'Haere i te ‘ohipa': 'Aller au travail',
                             'Fa‘ahoro i te pereo‘o': 'Conduire la voiture',
@@ -313,7 +313,7 @@ Page {
                         }
                     }
                     MenuItem {
-                        text: qsTr("Phrases #3")
+                        text: qsTr("Sentenses #3")
                         property variant words: {
                             'Ha‘amāuruuru i te ta‘ata': 'Remercier les personnes',
                             'Tavini i te ta‘ata': 'Servir les gens',
@@ -334,7 +334,7 @@ Page {
                         }
                     }
                     MenuItem {
-                        text: qsTr("Phrases #4")
+                        text: qsTr("Sentenses #4")
                         property variant words: {
                             'Fāri‘i i te ta‘ata': 'Accueillir les gens',
                             'Fāri‘i i te rātere': 'Accueillir les touristes',
@@ -353,7 +353,7 @@ Page {
                         }
                     }
                     MenuItem {
-                        text: qsTr("Phrases #5")
+                        text: qsTr("Sentenses #5")
                         property variant words: {
                             'Hōro‘a i te mana‘o': 'Donner un avis',
                             'Hōro‘a i to ‘oe mana‘o': 'Donner son avis',
