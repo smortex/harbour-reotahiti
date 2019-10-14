@@ -143,6 +143,7 @@ Page {
                             '‘ata‘ata': 'souriant',
                             'tāere': 'lent',
                             'tere': 'marcher / fonctionner',
+                            'tere': 'se rendre',
                             'pereo‘o': 'voiture',
                         }
                     }
@@ -158,7 +159,7 @@ Page {
                             'Ua oti !': "C'est fini !",
                             'Ua hora !': "C'est l'heure !",
                             'Hupehupe !': 'Fainéant !',
-                            'E mea itoito ‘oe !': 'Tu es courageux !',
+                            'E mea itoito ‘oe !': 'Tu es courageu·se !',
                             'Ua po‘ipo‘i !': 'Il fait jour (6h-10h) !',
                             'Ua avatea !': 'Il est midi (10h-14h) !',
                             'Ua ahiahi !': "C'est le soir (17h-18h) !",
@@ -166,7 +167,7 @@ Page {
                             'E mea rū !': "C'est urgent !",
                             'E mea rū te ‘ohipa !': 'Le travail est urgent !',
                             'E mea tāere !': "C'est lent !",
-                            'E mea tāere ‘oe !': 'Tu est lent !',
+                            'E mea tāere ‘oe !': 'Tu est lent·e !',
                             'E mea vitiviti !': "C'est rapide !",
                             'E mea vitiviti te pereo‘o !': 'La voiture est rapide !',
                             'E mea ‘ohie roa !': "C'est très facile !",
@@ -186,12 +187,49 @@ Page {
                     MenuItem {
                         text: qsTr("Vocabulary #3")
                         property variant words: {
+                            'fa‘a‘ite‘itera‘a': 'salon',
+                            'fa‘a‘ite‘itera‘a': 'foire',
+                            'fa‘a‘ite‘itera‘a': 'exposition',
+                            'fa‘a‘ite': 'montrer',
+                            'tere āi‘a': 'tourisme',
+                            'tupu': 'avoir lieur',
+                            'ānei': 'est-ce-que',
+                            'fa‘ahiahia': 'intéressant',
+                            'ato‘a': 'aussi',
+                            'faufa‘a': 'important',
+                            'faufa‘a': 'essentiel',
+                            'fa‘aea': 'rester',
+                            'tāmā': 'nettoyer',
+                            'āua-fare': 'la cour',
+                            'āua-fare': 'le jardin',
+                            'hina‘aro': 'vouloir',
+                            'fa‘aara': 'prévenir',
+                            'Aita e fifi': 'Pas de souci',
+                            'na': 'iel',
+                            'io': 'chez',
+                            'fa‘ahe‘e': 'surfer',
+                            'tai‘o': 'lire',
                         }
                     }
                     /**************************************************************************************************/
                     MenuItem {
                         text: qsTr("Vocabulary #4")
                         property variant words: {
+                            'māra‘ita‘i': 'regarder avec attention',
+                            'māra‘ita‘i': 'contempler',
+                            'māra‘ita‘i': 'admirer',
+                            'hi‘o': 'regarder',
+                            'hi‘o': "jetter un coup d'œil",
+                            'E‘ere i te mea hōro‘a noa !': "C'est pas donné !",
+                            'E puta te pūtē !': 'Ça coûte très cher !',
+                            'teata': 'cinéma',
+                            'fārerei': 'consulter', // le médecin
+                            'tohorā': 'baleine',
+                            '‘ou‘a': 'dauphin',
+                            'honu': 'tortue',
+                            '‘amura‘a-mā‘a': 'table à manger',
+                            'mā‘ahotu': 'fruit',
+
                         }
                     }
                     MenuItem {
@@ -259,6 +297,21 @@ Page {
                     MenuItem {
                         text: qsTr("Vocabulary #6")
                         property variant words: {
+                            'Nā hea … ?': 'Par où … ?',
+                            'i ‘ō': 'là bas',
+                            'i ‘ō nei': 'ici',
+                            'i ‘ō a‘e': 'là à côté',
+                            'te mā‘a-hootu': 'le fruit',
+                            'te mā‘a-tupu': 'les tubercules',
+                            'te vai ra': 'il y a / on trouve',
+                            'te auhune': "l'abondance",
+                            'aorera': 'ou bien / sinon / autrement',
+                            'po‘ihā': 'avoir soif',
+                            'ua hope te au': "c'est savoureux",
+                            'tei … noa': "C'est juste",
+                            'te pape-mā‘a-hotu': 'le jus de fruits',
+                            'mo‘ehia': 'être oublié',
+                            'Ua ta‘a noa ia ‘oe !': 'Tu as tout compris !',
                         }
                     }
                     /**************************************************************************************************/
