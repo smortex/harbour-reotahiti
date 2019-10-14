@@ -20,46 +20,96 @@
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="58"/>
+        <source>Vocabulary #1</source>
+        <translation>Vocabulaire n°1</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="187"/>
+        <source>Vocabulary #3</source>
+        <translation>Vocabulaire n°3</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="193"/>
+        <source>Vocabulary #4</source>
+        <translation>Vocabulaire n°4</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="198"/>
+        <source>Time</source>
+        <translation>Notions de temps</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="254"/>
+        <source>Vocabulary #5</source>
+        <translation>Vocabulaire n°5</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="260"/>
+        <source>Vocabulary #6</source>
+        <translation>Vocabulaire n°6</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="266"/>
+        <source>Sentenses #1</source>
+        <translation>Phrases n°1</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="293"/>
+        <source>Sentenses #2</source>
+        <translation>Phrases n°2</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="316"/>
+        <source>Sentenses #3</source>
+        <translation>Phrases n°3</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="337"/>
+        <source>Sentenses #4</source>
+        <translation>Phrases n°4</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="356"/>
+        <source>Sentenses #5</source>
+        <translation>Phrases n°5</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="381"/>
         <source>Colors</source>
         <translation>Couleurs</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="70"/>
+        <location filename="../qml/pages/MainPage.qml" line="393"/>
         <source>Digits</source>
         <translation>Chiffres</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="96"/>
+        <location filename="../qml/pages/MainPage.qml" line="419"/>
         <source>Verbs</source>
         <translation>Verbes</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="102"/>
+        <location filename="../qml/pages/MainPage.qml" line="425"/>
         <source>Vocabulary</source>
         <translation>Vocabulaire</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="143"/>
+        <location filename="../qml/pages/MainPage.qml" line="89"/>
         <source>Expressions #1</source>
         <translation>Expressions n°1</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="180"/>
+        <location filename="../qml/pages/MainPage.qml" line="127"/>
         <source>Vocabulary #2</source>
         <translation>Vocabulaire n°2</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="203"/>
-        <source>Phrases #1</source>
-        <translation>Phrases n°1</translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/MainPage.qml" line="230"/>
+        <location filename="../qml/pages/MainPage.qml" line="150"/>
         <source>Expressions #2</source>
         <translation>Expressions n°2</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="270"/>
+        <location filename="../qml/pages/MainPage.qml" line="465"/>
         <source>Display items</source>
         <translation>Éléments affichés</translation>
     </message>
@@ -69,7 +119,7 @@
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="85"/>
+        <location filename="../qml/pages/MainPage.qml" line="408"/>
         <source>Fruits</source>
         <translation>Fruits</translation>
     </message>

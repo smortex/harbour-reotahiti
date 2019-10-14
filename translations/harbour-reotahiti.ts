@@ -52,11 +52,51 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Phrases #1</source>
+        <source>Expressions #2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Expressions #2</source>
+        <source>Vocabulary #1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vocabulary #3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vocabulary #4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vocabulary #5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vocabulary #6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sentenses #1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sentenses #2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sentenses #3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sentenses #4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sentenses #5</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
